@@ -3,11 +3,9 @@ banner:
   title: Hi! I’m <br> Christoher <br> UX designer
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: 'I''m Deryn owner of Digital Freelance. I have over 10 years of experience
+    in the development world. I am a freelance web developer and I have worked on
+    various Government projects as well as projects for mid-sized businesses. '
   button:
     enable: true
     label: know more
