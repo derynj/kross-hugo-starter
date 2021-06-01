@@ -72,10 +72,11 @@ service:
     content: 'Having a great website is only the beginning. I can help your website
       rank online using the latest SEO techniques and the right web marketing strategy. '
     highlighted: true
-  - title: Interaction Design
+  - title: Web Security
     icon: ti-panel
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: Don't be a Cyber Attack victim. I can help keep your website up-to-date
+      regardless of the CMS platform used. I can find Security Vulnerabilities before
+      hackers do and fix them.
     highlighted: false
 portfolio:
   enable: false
