@@ -67,10 +67,10 @@ service:
     content: I create website's that engage your audiences. I use the latest technology
       to build beautiful website's captivate.
     highlighted: false
-  - title: UX Design
+  - title: Web Marketing
     icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: 'Having a great website is only the beginning. I can help your website
+      rank online using the latest SEO techniques and the right web marketing strategy. '
     highlighted: true
   - title: Interaction Design
     icon: ti-panel
