@@ -62,10 +62,10 @@ service:
   enable: true
   title: Services
   item:
-  - title: UI Design
+  - title: Web Development
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: I create website's that engage your audiences. I use the latest technology
+      to build beautiful website's captivate.
     highlighted: false
   - title: UX Design
     icon: ti-vector
