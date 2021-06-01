@@ -15,16 +15,16 @@ skill:
   title: Skills
   item:
   - title: Web Design
-    progress: 90%
+    progress: ''
     color: "#fdb157"
-  - title: Logo Design
-    progress: 60%
+  - title: Umbraco
+    progress: ''
     color: "#9473e6"
-  - title: After Effects
-    progress: 80%
+  - title: ".NET applications"
+    progress: ''
     color: "#bdecf6"
-  - title: Web App
-    progress: 70%
+  - title: Angular apps
+    progress: ''
     color: "#ffbcaa"
 experience:
   enable: true
