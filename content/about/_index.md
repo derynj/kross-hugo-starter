@@ -3,7 +3,7 @@ title: About
 date: 2019-05-12T12:14:34.000+06:00
 description: I am a freelance web developer with over 10 years of experience building
   websites for a wide range of clients.
-author_image: images/about/author.jpg
+author_image: ''
 author_signature: images/about/signature.png
 
 ---
