@@ -1,13 +1,16 @@
 ---
-title: "About"
-date: 2019-05-12T12:14:34+06:00
-description: "This is meta description."
-author_image : "images/about/author.jpg"
-author_signature : "images/about/signature.png"
+title: About
+date: 2019-05-12T12:14:34.000+06:00
+description: I am a freelance web developer with over 10 years of experience building
+  websites for a wide range of clients.
+author_image: images/about/author.jpg
+author_signature: images/about/signature.png
+
 ---
+I am a freelance web developer with over 10 years of experience building websites for a wide range of clients.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I am passionate about building engaging website's that captivate a users experience. 
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+My website developer journey began when working at a stock advisory firm and then for a few web agencies for clients such as FortyWinks, Westpac and Porche. 
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Get in touch with me for your next website development tasks!
