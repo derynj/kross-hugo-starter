@@ -13,7 +13,7 @@ work_process:
     icon: images/icons/print.png
     content: Once you are happy with the outcome, we will make your project live.
 team:
-  enable: true
+  enable: false
   title: My Team
   team_member:
   - title: Jack Schenziwe
