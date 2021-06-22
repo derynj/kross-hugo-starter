@@ -2,6 +2,7 @@
 item:
 - category: ''
   project_url: https://www.northsidepestcontrol.com.au
+  image: "/images/northside-pest-control.PNG"
 clients_logo_slider:
   enable: false
   title: My Clients
