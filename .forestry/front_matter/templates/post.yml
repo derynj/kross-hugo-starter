@@ -15,4 +15,5 @@ fields:
   name: description
   label: description
 pages:
+- content/blog/it-security-awareness-privacy-and-web-browsers.md
 - content/blog/the-terrible-truth-about-passwords.md
