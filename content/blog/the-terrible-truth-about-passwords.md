@@ -1,7 +1,6 @@
 +++
 date = 2021-07-04T14:00:00Z
 description = "Passwords can be a pain. You need a password for everything and we do tend to take them for granted, but consider these facts."
-draft = true
 image = "/images/passwords.jpg"
 title = "The terrible truth about Passwords"
 
