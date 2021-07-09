@@ -29,7 +29,7 @@ google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/cover.png"
 phone = ""
-theme_color = "#381d79"
+theme_color = "#96031A"
 [params.contact]
 enable = true
 form_action = "https://formspree.io/f/mayaogvg"
