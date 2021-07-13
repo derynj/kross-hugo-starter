@@ -9,8 +9,8 @@ author_signature: images/about/signature.png
 ---
 I am a freelance web developer with over 10 years of experience building websites for a wide range of clients.
 
-I am passionate about building engaging website's that captivate a users experience. 
+I am passionate about building engaging website's that captivate a users experience.
 
-My website developer journey began when working at a stock advisory firm and then for a few web agencies for clients such as FortyWinks, Westpac and Porche. 
+My website developer journey began when working at a stock advisory firm and then for a few web agencies for clients such as FortyWinks, Westpac and Porsche.
 
 Get in touch with me for your next website development tasks!
